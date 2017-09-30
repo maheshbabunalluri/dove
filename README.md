@@ -1,2 +1,0 @@
-# dove
-my first project

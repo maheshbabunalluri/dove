@@ -9,3 +9,6 @@ s sm l
   dont messs with me
   bang 
   go to hell
+
+
+  git commit -amend command checking

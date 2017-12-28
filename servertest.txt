@@ -1,0 +1,2 @@
+this file creted for testing fatal error reslove are not
+adding the content of the file
